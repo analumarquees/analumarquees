@@ -1,10 +1,10 @@
 ### Hi there, I'm Ana Marques 👋
 
 #### About
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
 #### Current stack
-- ⚡️Main Language: `JavaScript`
+- ⚡️Main language: `JavaScript`
 - 📡Backend: `Nodejs`
 - 📱Frontend: `HTML5`, `CSS3`, `JavaScript`
 - 📦️Version code control: `Git & Github`
